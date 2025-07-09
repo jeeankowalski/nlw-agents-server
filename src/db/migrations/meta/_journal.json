@@ -15,6 +15,13 @@
       "when": 1752020124577,
       "tag": "0001_simple_lady_vermin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752089202033,
+      "tag": "0002_clear_jackal",
+      "breakpoints": true
     }
   ]
 }
